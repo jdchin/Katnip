@@ -11,7 +11,7 @@ client = commands.Bot(command_prefix = '!')
 
 @client.event
 async def on_ready():
-    print("Survivor Bot is online!")
+    print("Katnip is online!")
 
 # client.load_extension('cogs.Test')
 client.remove_command('help')
