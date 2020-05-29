@@ -2,4 +2,4 @@ todo.py
 __pycache__/
 backlog/
 cogs/Test.py
-.env
+/.env
