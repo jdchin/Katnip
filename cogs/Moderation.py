@@ -1,7 +1,6 @@
 import discord
 from discord.ext import commands
 
-
 class Moderation(commands.Cog):
     # All moderation commands go here
     def __init__(self, client):
